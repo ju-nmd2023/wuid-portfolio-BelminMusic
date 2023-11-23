@@ -186,3 +186,11 @@ input[type="submit"]:hover {
         opacity: 1;
     }
 }
+
+.jsbutton {
+    border: none;
+    padding: 5px 20px;
+    background-color:  #333;
+    color: white;
+    border-radius: 10px;
+}
